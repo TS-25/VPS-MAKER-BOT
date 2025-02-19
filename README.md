@@ -14,7 +14,7 @@ bash <(curl -s https://raw.githubusercontent.com/TS-25/VPS-MAKER-BOT/main/instal
 ```
 
 
-Join Our Discord Server to get Activation Key : https://discord.gg/U23sgUHUFV
+DM me to get Activation Key : @tanvirsami_25 [username]
 
 
 
